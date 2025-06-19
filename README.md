@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This repository contains assignments and projects completed for **CS3700: Introduction to Database Systems**. The course provides a comprehensive introduction to the foundational concepts, models, and techniques used in modern database systems, with a focus on the relational model and practical implementation using SQL.
+This repository contains assignments completed for **CS3700: Introduction to Database Systems**. The course provides a comprehensive introduction to the foundational concepts, models, and techniques used in modern database systems, with a focus on the relational model and practical implementation using SQL.
 
 ## Topics Covered
 
